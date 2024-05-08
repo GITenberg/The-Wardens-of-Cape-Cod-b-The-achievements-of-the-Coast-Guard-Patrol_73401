@@ -1,5 +1,8 @@
 _repo: The-Wardens-of-Cape-Cod-b-The-achievements-of-the-Coast-Guard-Patrol_73401
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73401-h/images/cover.jpg
 creator:
   author:
     agent_name: Beston, Henry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4320
     wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
 description: From The World's Work, December, 1923, Volume 47, Issue 2.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73401#The-Wardens-of-Cape-Cod-b-The-achievements-of-the-Coast-Guard-Patrol
 gutenberg_issued: '2024-04-15'
 gutenberg_type: Text
 identifiers:
